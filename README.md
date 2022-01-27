@@ -7,7 +7,7 @@ This application is a web server built using express.js framework, JSON, insomni
 [Heroku](x)
 
 ## Screenshot
-
+![100-final-app.png](https://github.com/mflanigan13/zookeeper/blob/develop/public/assets/images/100-final-app.png)
 
 ## Contributing
 This is a project for my bootcamp and did not have any contributors.
